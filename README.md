@@ -1,14 +1,14 @@
 # Quick sort
 
 ## Description
-Implementing a Ruby quicksort based on [HaskellWiki](http://www.haskell.org/haskellwiki/Introduction#Quicksort_in_Haskell)
+Haskell is a purely functional programming language. Since Ruby supports functional programming, I've implemented a Ruby quicksort based on [HaskellWiki](http://www.haskell.org/haskellwiki/Introduction#Quicksort_in_Haskell).
 
 ## Usage
 ```
-ruby quicksort(array)
+quicksort(array)
 ```
 
-## Quick sort in Haskell
+## Quick sort in Haskell from HaskellWiki
 ```
  quicksort :: Ord a => [a] -> [a]
  quicksort []     = []
