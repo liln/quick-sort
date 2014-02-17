@@ -17,3 +17,7 @@ quicksort(array)
          lesser  = filter (< p) xs
          greater = filter (>= p) xs
 ```
+
+## License
+
+MIT: [http://lng.mit-license.org](http://lng.mit-license.org)
